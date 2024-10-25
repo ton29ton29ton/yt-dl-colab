@@ -7,7 +7,7 @@
 ③必要事項を入力しつつ、上から実行していく。<br>
 # Q&A
 Q, もし書いてある方法(コードを実行して(googledriveに...や直接...))が実行できない！<br>
-A, https://www.kikagaku.co.jp/kikagaku-blog/google-colab-file/#i-<br>
+A, https://www.kikagaku.co.jp/kikagaku-blog/google-colab-file/#i-3<br>
 こちらをご覧ください<br>
 Q, 無料なの？<br>
 A, できるなら収益化したいのですが、諸事情によりやめました。協力て欲しいことをぜひご覧ください。
